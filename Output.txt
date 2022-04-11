@@ -1,0 +1,84 @@
+First Name: Benjamin
+Last Name: Parker
+Email: benjamin.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: Francois
+Last Name: Kruger
+Email: francois.kruger@leanix.net
+Status: ACTIVE
+Role: SUPERADMIN
+
+First Name: Richard
+Last Name: Best
+Email: srv.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: Frank
+Last Name: Martin
+Email: frank.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: Peter
+Last Name: Schmidt
+Email: cio.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: Christina
+Last Name: Weber
+Email: christina.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: LeanIX
+Last Name: Support
+Email: support@leanix.net
+Status: ACTIVE
+Role: SUPERADMIN
+
+First Name: Carol
+Last Name: Brown
+Email: pgm.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: Paula
+Last Name: Watson
+Email: mgr.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: Mike
+Last Name: Akl
+Email: mike.akl@icloud.com
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: Max
+Last Name: Sander
+Email: max.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: Nicola
+Last Name: Martin
+Email: nicola.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: David
+Last Name: Koop
+Email: office.MIADemo@meshlab.de
+Status: ACTIVE
+Role: ACCOUNTUSER
+
+First Name: Frank
+Last Name: Martin
+Email: frank.martin@leanix.net
+Status: ARCHIVED
+Role: ACCOUNTUSER
+
